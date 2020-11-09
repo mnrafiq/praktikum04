@@ -1,0 +1,90 @@
+body{
+	background-color: #e4e4e4;
+}
+
+
+/* Navigation Bar */
+
+a{
+	font-family: burelom;
+	font-size: 12;
+	padding: 14px 10px;
+	text-underline-position: none;
+}
+
+ul{
+	padding: 14px;
+}
+
+li{
+	display: inline;
+}
+
+li a{
+	background: #222;
+	color: #d4d4d4;
+}
+
+li a:hover{
+	background: #d4d4d4;
+	color: #fff;
+}
+
+.nav{
+	background: #222;
+	height: 50px;
+	font-weight: bold;
+}
+
+.kerangka{
+    width: 1080px;
+    background-color: white;
+    height: auto;
+    margin-left: 135px;
+}
+.menu{
+    width: 1080px;
+    height: 80px;
+    background-color: black;
+}
+.logo{
+	font-family: burelom;
+	font-size: 12;
+	color: white;
+	padding-top: 1px;
+	padding-left: 325px;
+}
+.imgheader{
+	width: 1080px;
+	height: 300px;
+}
+
+.home{
+	width: 1080px;
+	height: 1200px;
+}
+
+.specialoffers{
+	width: 1080px;
+	height: 1200px;
+}
+
+.fasilias{
+	width: 1080px;
+	height: 1200;
+}
+
+.image{
+	width: 1080px;
+	height: auto;
+}
+
+.aboutus{
+	width: 1080px;
+	height: 1200;
+}
+
+.contact{
+	width: 1080px;
+	height: 1200;
+}
